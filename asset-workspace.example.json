@@ -1,0 +1,7 @@
+{
+  "inputArchive": "C:\\Path\\To\\Content.ggpk",
+  "workspace": "C:\\PoEHideoutAssets",
+  "readOnlyInput": true,
+  "assetMode": "generated-2d",
+  "notes": "Copy this file to asset-workspace.local.json. The local file is ignored by Git."
+}

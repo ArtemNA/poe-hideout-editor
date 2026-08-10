@@ -1,0 +1,6 @@
+Language = "English"
+Hideout Name = "Overgrown Hideout"
+Hideout Hash = 62863
+Stash = { Hash=3230065491, X=398, Y=284, Rot=49525, Flip=0, Var=0 }
+Waypoint = { Hash=1224707366, X=270, Y=307, Rot=16049, Flip=0, Var=1 }
+Einhar = { Hash=2684274993, X=393, Y=492, Rot=65439, Flip=0, Var=0 }
