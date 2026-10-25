@@ -2,6 +2,10 @@
 
 A local-first 2D CAD-style editor for Path of Exile 1 `.hideout` layouts.
 
+> **Status: early work in progress.** This is a raw, experimental project: the core
+> import/edit/export workflow works, but features are incomplete, the UI is unpolished
+> and the file format handling may change. Not production-ready.
+
 ## Run locally
 
 ```bash
